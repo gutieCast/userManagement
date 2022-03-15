@@ -1,0 +1,16 @@
+.card {
+    box-shadow: 0 3px 3px #8c61ff;
+    border-radius: 5px;
+    border-color: transparent;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    max-width: 500px;
+    .card-img {
+        border-radius: 50%;
+        display: inline-block;
+    }
+    .user-info {
+        padding-left: 20px;
+    }
+}

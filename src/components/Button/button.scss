@@ -1,0 +1,13 @@
+.button {
+    border-radius: 5px;
+    color: white;
+    border-color: transparent;
+    margin: 0 5px;
+    width: 50px;
+    &.add {
+        background-color: #8c61ff;
+    }
+    &.minus {
+        background-color: #36c3fe;
+    }
+}
